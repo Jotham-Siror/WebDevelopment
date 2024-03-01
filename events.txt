@@ -1,0 +1,63 @@
+INSERT INTO
+    events (eventName, eventDates, eventLocation, eventTheme)
+VALUES
+    (
+        'Year of the Dragon Festival',
+        '2nd May',
+        'Nyayo Stadium',
+        'Fire!!!!!!'
+    ),
+    (
+        'Homecoming',
+        '8th July',
+        'Ampitheatre',
+        'Moonlight'
+    ),
+    (
+        'Robotics Day',
+        '23rd September',
+        'Strathmore ilab',
+        'The Future'
+    ),
+    (
+        'Aviation Day',
+        '3rd May',
+        'Students Centre',
+        'The Dawn of Drones'
+    ),
+    (
+        'Strathmore Opens',
+        '3rd August',
+        'Student Centre',
+        'Importance of Info'
+    ),
+    (
+        'Diplomacy Day',
+        '3rd June',
+        'The Dome',
+        'Go Abroad!!'
+    ),
+    (
+        'Culinary Day',
+        '3rd October',
+        'Cafeteria',
+        'All you can Eat!!'
+    ),
+    (
+        'Engineering day',
+        '10th September',
+        'Workshop',
+        'Engines!!!!'
+    ),
+    (
+        'Gaming Day',
+        '3rd May',
+        'Gaming Hub',
+        'Come with your skills!!'
+    ),
+    (
+        'Hackathon',
+        '3rd September',
+        'Strathmore ilab',
+        'Can you hack?'
+    );
